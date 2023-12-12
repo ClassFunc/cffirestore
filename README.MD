@@ -14,7 +14,7 @@ go get github.com/classfunc/cffirestore
 package main
 
 import (
-	github.com/classfunc/cffirestore
+	"github.com/classfunc/cffirestore"
 )
 
 func main() {
